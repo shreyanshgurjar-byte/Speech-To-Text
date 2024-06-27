@@ -2,7 +2,8 @@
 
 **Speech-to-Text Conversion Model**
 
-This repository hosts a robust speech-to-text conversion model utilizing the Word2Vec algorithm. It excels in accurately transcribing spoken language, adeptly handling diverse accents including Indian accents, and varying noise levels. Implemented in Python, this model is ideal for integrating into voice assistants, transcription services, and other speech recognition systems.
+This repository hosts a robust speech-to-text conversion model utilizing the Word2Vec algorithm. It excels in accurately transcribing spoken language, 
+adeptly handling diverse accents including Indian accents, and varying noise levels. Implemented in Python, this model is ideal for integrating into voice assistants, transcription services, and other speech recognition systems.
 
 **Installation**<br>
 To install the necessary dependencies and set up the environment, follow these steps:
